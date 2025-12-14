@@ -5,3 +5,5 @@ scoreboard objectives remove Blue_Team_Kills
 # Remove Teams
 team remove redTeam
 team remove blueTeam
+
+kill @e[type=armor_stand,tag=flag]
