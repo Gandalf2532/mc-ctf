@@ -1,1 +1,3 @@
-function update_kills 
+function capture_the_flag:update_kills
+
+function setup:bfl/update_blueflag
