@@ -1,1 +1,2 @@
 summon armor_stand ~ ~ ~ {NoGravity:1b,Small:1b,Invisible:1b,Tags:["redflag","flag"],ArmorItems:[{},{},{},{id:"minecraft:paper",Count:1b,tag:{CustomModelData:2}}]}
+summon interaction ~ ~ ~ {NoGravity:1b,width:0.5f,height:2f,response:1b,Tags:["flag","redflag"]}
