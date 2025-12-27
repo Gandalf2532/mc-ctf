@@ -4,6 +4,7 @@
 
 scoreboard objectives remove blueTeam
 scoreboard objectives remove redTeam
+scoreboard objectives remove score
 
 # Remove Teams
 team remove redTeam

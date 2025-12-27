@@ -7,6 +7,10 @@
 scoreboard objectives add blueTeam dummy "Blue Team Points"
 scoreboard objectives add redTeam dummy "Red Team Points"
 
+scoreboard objectives add score dummy "Score of Teams"
+scoreboard players set blueTeam score 0
+scoreboard players set redTeam score 0
+
 scoreboard players set * blueTeam 0
 scoreboard players set * redTeam 0
 
