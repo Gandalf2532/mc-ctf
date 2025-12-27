@@ -4,3 +4,4 @@ function setup:teams/init_scoreboard
 function setup:teams/init_teams
 
 scoreboard objectives setdisplay sidebar score
+scoreboard players set @a kills 0

@@ -4,7 +4,12 @@
 
 scoreboard objectives remove blueTeam
 scoreboard objectives remove redTeam
+
 scoreboard objectives remove score
+scoreboard objectives remove blue_kill
+scoreboard objectives remove red_kill
+
+scoreboard objectives remove switch
 
 # Remove Teams
 team remove redTeam
