@@ -1,4 +1,4 @@
-execute as @e[type=minecraft:interaction,tag=redflag] at @s if data entity @s interaction run function setup:bfl/del_blueflag
+execute as @e[type=minecraft:interaction,tag=redflag] at @s if data entity @s interaction run function setup:rfl/del_redflag
 execute as @e[type=minecraft:interaction,tag=redflag] at @s if data entity @s interaction run data remove entity @s interaction
 
 function setup:rfl/check_redflag

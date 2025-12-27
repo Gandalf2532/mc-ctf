@@ -3,8 +3,8 @@
 function setup:teams/init_scoreboard
 function setup:teams/init_teams
 
-scoreboard objectives setdisplay sidebar blueTeam
-team join blueTeam Master363636
+scoreboard objectives setdisplay sidebar redTeam
+team join redTeam Master363636
 
 scoreboard players set Master363636 blueTeam 0
 

@@ -1,1 +1,0 @@
-function setup:bfl/update_blueflag
